@@ -1,0 +1,20 @@
+.div {
+    margin: 1em;
+}
+
+p {
+    font-size: 17px;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.caminhao {
+    width: 37em;
+    height: 20em;
+}
+
+.mapa {
+    width: 25em;
+    height: 25em;
+
+}

@@ -1,0 +1,6 @@
+.footer {
+    display: flex;
+    margin: 1em;
+    font-size: 12px;
+    justify-content: center;
+}

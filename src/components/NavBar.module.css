@@ -1,0 +1,17 @@
+.lista {
+    font-size: 11px;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;  
+    margin-bottom: 10vh;
+}
+
+.item {
+    font-weight: 500;
+    background-color: rgba(141, 187, 255, 0.829);
+    padding: 1%;
+    border-radius: 8%;
+    text-align: center;
+    box-shadow: 3px 3px 5px rgba(185, 198, 214, 0.808);
+    cursor: pointer
+}
